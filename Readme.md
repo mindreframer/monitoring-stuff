@@ -24,9 +24,9 @@
 
     dynport/metrix:
       Metrics collector written in golang
-       34 commits, last change: 2013-09-10 06:18:58, 12 stars, 1 forks
+       55 commits, last change: , 25 stars, 2 forks
 
     StackStorm/collectd3:
 
-       29 commits, last change: 2013-10-02 21:24:23, 56 stars, 3 forks
+       30 commits, last change: , 73 stars, 5 forks
 <!-- PROJECTS_LIST_END -->
